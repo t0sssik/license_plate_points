@@ -1,0 +1,14 @@
+../data/test/images/PLATE_00_1710473130_998_gray.png
+../data/test/images/PLATE_00_1710473271_999_gray.png
+../data/test/images/PLATE_00_1715922970.9764817_975_gray.png
+../data/test/images/PLATE_00_1715923016.8652008_986_gray.png
+../data/test/images/PLATE_00_1715924153.3621452_997_gray.png
+../data/test/images/PLATE_00_1715925359.0569415_988_gray.png
+../data/test/images/PLATE_18_63831838147134_999_gray.png
+../data/test/images/PLATE_28_175679_770.png
+../data/test/images/PLATE_30_63816710180215_995_gray.png
+../data/test/images/PLATE_36_264223_1000.png
+../data/test/images/PLATE_44_213822_1000.png
+../data/test/images/PLATE_53_63826563492230_999_gray.png
+../data/test/images/PLATE_68_63827360703603_999_gray.png
+../data/test/images/PLATE_236_63831838170895_999_gray.png
